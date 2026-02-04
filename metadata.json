@@ -1,0 +1,5 @@
+{
+  "name": "Mapeador De > Para Inteligente - Open IA Larga escala",
+  "description": "Ferramenta inteligente que utiliza GPT 4.1 Mini para mapear semanticamente URLs 404 para URLs de destino ativas.",
+  "requestFramePermissions": []
+}
